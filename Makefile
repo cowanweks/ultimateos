@@ -1,5 +1,5 @@
 # Compiler, Linker and Assembler
-CC=gcc
+CC=gc
 CXX=g++
 ASM=nasm
 LD=ld
